@@ -1,6 +1,6 @@
 calculator.py
 
-guess-a-number-game.py
+
 # Guess a Number Game
 
 A simple Python console game where the player tries to guess the number chosen by the computer.
